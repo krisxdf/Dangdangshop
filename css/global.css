@@ -1,4 +1,4 @@
-@charset "gb2312";
+@charset "utf-8";
 /* CSS Document */
 
 body{
@@ -38,7 +38,7 @@ img{
 	clear:both;
 	float:none;
 	}
-/*ÍøÒ³°æÈ¨²¿·ÖÑùÊ½¿ªÊ¼*/
+/*ç½‘é¡µç‰ˆæƒéƒ¨åˆ†æ ·å¼å¼€å§‹*/
 .footer_top{
 	width:800px;
 	margin:0px auto 0px auto;
@@ -52,4 +52,4 @@ img{
 	color:#9B2B0F;
 	margin:0px 8px 0px 8px;
 	}
-/*ÍøÒ³°æÈ¨²¿·ÖÑùÊ½½áÊø*/
+/*ç½‘é¡µç‰ˆæƒéƒ¨åˆ†æ ·å¼ç»“æŸ*/
